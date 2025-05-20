@@ -1,5 +1,5 @@
 {
-    "name": "Isaacsilva123/router",
+    "name": "isaacsilva123/router",
     "autoload": {
         "psr-4": {
             "router\\": "src/"
