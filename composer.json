@@ -1,0 +1,15 @@
+{
+    "name": "isaac/router",
+    "autoload": {
+        "psr-4": {
+            "router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Isaacsilva123",
+            "email": "isaacsilvai859@gmail.com"
+        }
+    ],
+    "require": {}
+}
